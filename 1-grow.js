@@ -1,3 +1,7 @@
+// WPU Coding Challenge 2024
+// 1/366
+// https://github.com/Baihagi/tantangan-coding-hagi-2024
+
 // function grow(x) {
 //   let result = x[0];
 //   for (let i = 1; i < x.length; i++) {
